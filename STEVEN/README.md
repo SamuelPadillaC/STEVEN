@@ -7,6 +7,3 @@ This will later become a tiny manual.
 ## Access or SuperUser:
 email: steven@stevenmentor.com
 psswd: InternationalEd2019!
-
-## Notes:
-1. 
